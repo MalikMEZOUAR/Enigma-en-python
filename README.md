@@ -1,0 +1,1 @@
+Voici un projet commencé au lycée que je n'ai pas eu l'occasion de terminer dont le but était de réaliser un programme permettant de coder et décoder un message de la même manière que la machine énigma.
